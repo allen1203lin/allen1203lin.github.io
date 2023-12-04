@@ -12,7 +12,7 @@
   <meta name="author" content="Holger Koenemann">
   <meta name="generator" content="Eleventy v2.0.0">
   <meta name="HandheldFriendly" content="true">
-  <title>Stride HTML Template - Frontpage one</title>
+  <title>煒倫敦鐵橋垮下來</title>
   <link rel="stylesheet" href="css/theme.min.css">
 
    <style>
@@ -78,7 +78,7 @@
 <div class="py-vh-5 w-100 overflow-hidden" id="services">
   <div class="container">
       <div class="row d-flex justify-content-end">
-<div class="col-lg-8" data-aos="fade-down"><h6 class="display-6">我是一位喜歡參與平常沒辦法接觸到的文化的人，我也很喜歡將自己很想學習的東西變成自己的技能的人，因為這樣的性格導致我學到了許多東西，也接觸到了許多不同的文化，讓我在與同濟溝通時可以很快的參與話題，也在參與不同事物時熱在其中。</h6></div>
+<div class="col-lg-8" data-aos="fade-down"><h6 class="display-6"></h6></div>
 </div>
 <div class="row d-flex align-items-center">
 <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
